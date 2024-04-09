@@ -1,0 +1,9 @@
+# PROJECT NAME: HAPPY-FARMER PROJECT.
+
+# PROBLEM STATEEMNT: 
+**Lack of a platform for informational updates on current and best agricultural practices, presented in a way that would be easily understood by the Lay-farmers. 
+**Lack of a platform where lay-farmers can access basic analytical cum predictive skills to manage and optimize their inventory management. 
+
+# PROJECT DESCRIPTION: 1.	Develop a Web Application that take inputs from the Prime Agro-websites on agricultural research and best practices, and make the information aggregated on these sites available to the local farmers in a more conversant layman language (via the application). The aim of this project os to provide insights for better decision-making in planting, irrigation, fertilization and other farming practices. 
+
+# URL of the Project Initiation Process:  https://docs.google.com/spreadsheets/d/1RctoLp3e-I2JYFnVc2Kcj0Iztm8fQxpyP-_UJLc_8xg/edit?usp=sharing
